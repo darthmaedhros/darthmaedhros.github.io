@@ -1,9 +1,49 @@
 [
 {
+		"title": "Abbey of the Everyman",
+		"date":"Thu Jun 26 2025 21:06:42 GMT+0000 (Coordinated Universal Time)",
+		"url":"/factions/abbey-of-the-everyman/",
+		"content": "#faction\nRivals <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/factions/howlers/\">Howlers</a>.",
+		"tags": ["faction", "note"]
+},
+
+{
+		"title": "Grand Guard",
+		"date":"Thu Jun 26 2025 21:06:42 GMT+0000 (Coordinated Universal Time)",
+		"url":"/factions/grand-guard/",
+		"content": "#faction",
+		"tags": ["faction", "note"]
+},
+
+{
+		"title": "Howlers",
+		"date":"Thu Jun 26 2025 21:06:42 GMT+0000 (Coordinated Universal Time)",
+		"url":"/factions/howlers/",
+		"content": "#faction\nRival <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/factions/grand-guard/\">Grand Guard</a>. Currently at war with the <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/factions/abbey-of-the-everyman/\">Abbey of the Everyman</a>.",
+		"tags": ["faction", "note"]
+},
+
+{
+		"title": "Empire of the Isles",
+		"date":"Thu Jun 26 2025 21:06:42 GMT+0000 (Coordinated Universal Time)",
+		"url":"/locations/empire-of-the-isles/",
+		"content": "#location #empire_of_the_isles",
+		"tags": ["location", "empire_of_the_isles", "note"]
+},
+
+{
 		"title": "Karnaca",
-		"date":"Thu Jun 26 2025 21:03:39 GMT+0000 (Coordinated Universal Time)",
+		"date":"Thu Jun 26 2025 21:06:42 GMT+0000 (Coordinated Universal Time)",
 		"url":"/",
-		"content": "#location/city #empire_of_the_isles/serkonos/karnaca\nThe capital city of <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Serkonos</a>, the southernmost of the <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Empire of the Isles</a>.",
+		"content": "#location/city #empire_of_the_isles/serkonos/karnaca\nThe capital city of <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/locations/serkonos/\">Serkonos</a>, the southernmost island of the <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/locations/empire-of-the-isles/\">Empire of the Isles</a>.",
 		"tags": ["location/city", "empire_of_the_isles/serkonos/karnaca", "note","gardenEntry"]
+},
+
+{
+		"title": "Serkonos",
+		"date":"Thu Jun 26 2025 21:06:42 GMT+0000 (Coordinated Universal Time)",
+		"url":"/locations/serkonos/",
+		"content": "#location/nation #empire_of_the_isles/serkonos\nSerkonos is the southernmost of the four main islands of the <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/locations/empire-of-the-isles/\">Empire of the Isles</a>. The capital city of Serkonos is <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/\">Karnaca</a>, on the southern coast. The isle is known for its warm, tropical climate and vast beaches. It is ruled by a Duke. The principal police force of Serkonos is the <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/factions/grand-guard/\">Grand Guard</a>.\n\nIts primary cities are <a class=\"internal-link\" target=\"\" data-note-icon=\"undefined\" href=\"/\">Karnaca</a>, <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Cullero</a>, <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Saggunto</a>, and <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Bastillian</a>.",
+		"tags": ["location/nation", "empire_of_the_isles/serkonos", "note"]
 }
 ]
