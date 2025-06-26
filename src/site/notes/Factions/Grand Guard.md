@@ -2,4 +2,5 @@
 {"dg-publish":true,"permalink":"/factions/grand-guard/"}
 ---
 
-#faction
+#faction/institution 
+The military and city watch of Karnaca.

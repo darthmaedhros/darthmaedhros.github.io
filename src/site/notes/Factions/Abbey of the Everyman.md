@@ -2,5 +2,5 @@
 {"dg-publish":true,"permalink":"/factions/abbey-of-the-everyman/"}
 ---
 
-#faction
+#faction/institution  
 Rivals [[Factions/Howlers\|Howlers]]. 
