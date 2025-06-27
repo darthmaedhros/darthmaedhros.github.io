@@ -1,15 +1,23 @@
 [
 {
 		"title": "Abbey of the Everyman",
-		"date":"Fri Jun 27 2025 02:22:04 GMT+0000 (Coordinated Universal Time)",
+		"date":"Fri Jun 27 2025 02:31:42 GMT+0000 (Coordinated Universal Time)",
 		"url":"/factions/abbey-of-the-everyman/",
 		"content": "#faction/institution\nRivals <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/howlers/\">Howlers</a>.",
 		"tags": ["faction/institution", "note"]
 },
 
 {
+		"title": "Cult of the Outsider",
+		"date":"Fri Jun 27 2025 02:31:42 GMT+0000 (Coordinated Universal Time)",
+		"url":"/factions/cult-of-the-outsider/",
+		"content": "#faction\nThis is a template for a faction.",
+		"tags": ["faction", "note"]
+},
+
+{
 		"title": "Dead Eels Gang",
-		"date":"Fri Jun 27 2025 02:22:04 GMT+0000 (Coordinated Universal Time)",
+		"date":"Fri Jun 27 2025 02:31:42 GMT+0000 (Coordinated Universal Time)",
 		"url":"/factions/dead-eels-gang/",
 		"content": "#faction/underworld\nKnown for piracy along the canals. Rival the Hatters.",
 		"tags": ["faction/underworld", "note"]
@@ -17,7 +25,7 @@
 
 {
 		"title": "Eyeless",
-		"date":"Fri Jun 27 2025 02:22:04 GMT+0000 (Coordinated Universal Time)",
+		"date":"Fri Jun 27 2025 02:31:42 GMT+0000 (Coordinated Universal Time)",
 		"url":"/factions/eyeless/",
 		"content": "#faction/underworld\nNotorious criminal organization obsessed with the occult.",
 		"tags": ["faction/underworld", "note"]
@@ -25,15 +33,15 @@
 
 {
 		"title": "Factions",
-		"date":"Fri Jun 27 2025 02:22:04 GMT+0000 (Coordinated Universal Time)",
+		"date":"Fri Jun 27 2025 02:31:42 GMT+0000 (Coordinated Universal Time)",
 		"url":"/factions/factions/",
-		"content": "Factions are various groups which vie for control of <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/\">Karnaca</a>.\n\nUnderworld\n\ndataview&lt;br&gt;LIST&lt;br&gt;FROM #faction&lt;br&gt;WHERE dg-publish = &quot;true&quot;&lt;br&gt;\n\nFile\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/the-hagsmen/\">The Hagsmen</a>\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/the-grizzlers/\">The Grizzlers</a>\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/sixways-gang/\">Sixways Gang</a>\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/roaring-boys/\">Roaring Boys</a>\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/mercurio-street-gang/\">Mercurio Street Gang</a>\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/howlers/\">Howlers</a>\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/hatters/\">Hatters</a>\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/grand-guard/\">Grand Guard</a>\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/eyeless/\">Eyeless</a>\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/dead-eels-gang/\">Dead Eels Gang</a>\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/abbey-of-the-everyman/\">Abbey of the Everyman</a>\n\nFaction\nStatus\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/abbey-of-the-everyman/\">Abbey of the Everyman</a>\n-1\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/dead-eels-gang/\">Dead Eels Gang</a>\n-\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/eyeless/\">Eyeless</a>\n-\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/grand-guard/\">Grand Guard</a>\n-\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/hatters/\">Hatters</a>\n0\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/howlers/\">Howlers</a>\n1\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/mercurio-street-gang/\">Mercurio Street Gang</a>\n-1\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/roaring-boys/\">Roaring Boys</a>\n0\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/sixways-gang/\">Sixways Gang</a>\n-\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/the-grizzlers/\">The Grizzlers</a>\n0\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/the-hagsmen/\">The Hagsmen</a>\n0",
-		"tags": ["faction", "note"]
+		"content": "Factions are various groups which vie for control of <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/\">Karnaca</a>.\n\nFaction\nTier\nStatus\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/abbey-of-the-everyman/\">Abbey of the Everyman</a>\nIII\n-1\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/cult-of-the-outsider/\">Cult of the Outsider</a>\nIV\n0\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/dead-eels-gang/\">Dead Eels Gang</a>\nII\n-\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/eyeless/\">Eyeless</a>\n-\n-\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/grand-guard/\">Grand Guard</a>\nIII\n-\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/hatters/\">Hatters</a>\nII\n0\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/howlers/\">Howlers</a>\nIII\n1\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/mercurio-street-gang/\">Mercurio Street Gang</a>\nI\n-1\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/roaring-boys/\">Roaring Boys</a>\nI\n0\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/sixways-gang/\">Sixways Gang</a>\n-\n-\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/the-grizzlers/\">The Grizzlers</a>\nII\n0\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/the-hagsmen/\">The Hagsmen</a>\nII\n0",
+		"tags": [ "note"]
 },
 
 {
 		"title": "Grand Guard",
-		"date":"Fri Jun 27 2025 02:22:04 GMT+0000 (Coordinated Universal Time)",
+		"date":"Fri Jun 27 2025 02:31:42 GMT+0000 (Coordinated Universal Time)",
 		"url":"/factions/grand-guard/",
 		"content": "#faction/institution\nThe military and city watch of Karnaca.",
 		"tags": ["faction/institution", "note"]
@@ -41,7 +49,7 @@
 
 {
 		"title": "Hatters",
-		"date":"Fri Jun 27 2025 02:22:04 GMT+0000 (Coordinated Universal Time)",
+		"date":"Fri Jun 27 2025 02:31:42 GMT+0000 (Coordinated Universal Time)",
 		"url":"/factions/hatters/",
 		"content": "#faction/underworld\nSmall group connected to a former Dunwall gang. Ingest smuggled goods from Dunwall.",
 		"tags": ["faction/underworld", "note"]
@@ -49,7 +57,7 @@
 
 {
 		"title": "Howlers",
-		"date":"Fri Jun 27 2025 02:22:04 GMT+0000 (Coordinated Universal Time)",
+		"date":"Fri Jun 27 2025 02:31:42 GMT+0000 (Coordinated Universal Time)",
 		"url":"/factions/howlers/",
 		"content": "#faction/underworld\nGang which sees themselves as idealists and revolutionaries trying to overthrow the corrupt <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/grand-guard/\">Grand Guard</a>.\nRival <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/grand-guard/\">Grand Guard</a>. Currently at war with the <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/abbey-of-the-everyman/\">Abbey of the Everyman</a>.",
 		"tags": ["faction/underworld", "note"]
@@ -57,7 +65,7 @@
 
 {
 		"title": "Mercurio Street Gang",
-		"date":"Fri Jun 27 2025 02:22:04 GMT+0000 (Coordinated Universal Time)",
+		"date":"Fri Jun 27 2025 02:31:42 GMT+0000 (Coordinated Universal Time)",
 		"url":"/factions/mercurio-street-gang/",
 		"content": "#faction/underworld",
 		"tags": ["faction/underworld", "note"]
@@ -65,7 +73,7 @@
 
 {
 		"title": "Roaring Boys",
-		"date":"Fri Jun 27 2025 02:22:04 GMT+0000 (Coordinated Universal Time)",
+		"date":"Fri Jun 27 2025 02:31:42 GMT+0000 (Coordinated Universal Time)",
 		"url":"/factions/roaring-boys/",
 		"content": "#faction/underworld\nSplinter faction of the Hatters. Main source of income is shipping contraband, including weapons and equipment used by the Grand Guard.",
 		"tags": ["faction/underworld", "note"]
@@ -73,7 +81,7 @@
 
 {
 		"title": "Sixways Gang",
-		"date":"Fri Jun 27 2025 02:22:04 GMT+0000 (Coordinated Universal Time)",
+		"date":"Fri Jun 27 2025 02:31:42 GMT+0000 (Coordinated Universal Time)",
 		"url":"/factions/sixways-gang/",
 		"content": "#faction/underworld\nThis is a template for a faction.This is a template for a faction.",
 		"tags": ["faction/underworld", "note"]
@@ -81,7 +89,7 @@
 
 {
 		"title": "The Grizzlers",
-		"date":"Fri Jun 27 2025 02:22:04 GMT+0000 (Coordinated Universal Time)",
+		"date":"Fri Jun 27 2025 02:31:42 GMT+0000 (Coordinated Universal Time)",
 		"url":"/factions/the-grizzlers/",
 		"content": "#faction/underworld\nStreet toughs who run protection rackets in the Old Quarter.",
 		"tags": ["faction/underworld", "note"]
@@ -89,7 +97,7 @@
 
 {
 		"title": "The Hagsmen",
-		"date":"Fri Jun 27 2025 02:22:04 GMT+0000 (Coordinated Universal Time)",
+		"date":"Fri Jun 27 2025 02:31:42 GMT+0000 (Coordinated Universal Time)",
 		"url":"/factions/the-hagsmen/",
 		"content": "#faction/underworld\nGang of smugglers and cutthroats known to dump bodies in the canal for the <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">hagfish</a> to dispose of.",
 		"tags": ["faction/underworld", "note"]
@@ -97,7 +105,7 @@
 
 {
 		"title": "Empire of the Isles",
-		"date":"Fri Jun 27 2025 02:22:04 GMT+0000 (Coordinated Universal Time)",
+		"date":"Fri Jun 27 2025 02:31:42 GMT+0000 (Coordinated Universal Time)",
 		"url":"/locations/empire-of-the-isles/",
 		"content": "#location #empire_of_the_isles",
 		"tags": ["location", "empire_of_the_isles", "note"]
@@ -105,7 +113,7 @@
 
 {
 		"title": "Karnaca",
-		"date":"Fri Jun 27 2025 02:22:04 GMT+0000 (Coordinated Universal Time)",
+		"date":"Fri Jun 27 2025 02:31:42 GMT+0000 (Coordinated Universal Time)",
 		"url":"/",
 		"content": "#location/city #empire_of_the_isles/serkonos/karnaca\nThe capital city of <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/serkonos/\">Serkonos</a>, the southernmost island of the <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/empire-of-the-isles/\">Empire of the Isles</a>.",
 		"tags": ["location/city", "empire_of_the_isles/serkonos/karnaca", "note","gardenEntry"]
@@ -113,7 +121,7 @@
 
 {
 		"title": "Serkonos",
-		"date":"Fri Jun 27 2025 02:22:04 GMT+0000 (Coordinated Universal Time)",
+		"date":"Fri Jun 27 2025 02:31:42 GMT+0000 (Coordinated Universal Time)",
 		"url":"/locations/serkonos/",
 		"content": "#location/nation #empire_of_the_isles/serkonos\nSerkonos is the southernmost of the four main islands of the <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/empire-of-the-isles/\">Empire of the Isles</a>. The capital city of Serkonos is <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/\">Karnaca</a>, on the southern coast. The isle is known for its warm, tropical climate and vast beaches. It is ruled by a Duke. The principal police force of Serkonos is the <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/grand-guard/\">Grand Guard</a>.\n\nIts primary cities are <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/\">Karnaca</a>, <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Cullero</a>, <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Saggunto</a>, and <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Bastillian</a>.",
 		"tags": ["location/nation", "empire_of_the_isles/serkonos", "note"]
