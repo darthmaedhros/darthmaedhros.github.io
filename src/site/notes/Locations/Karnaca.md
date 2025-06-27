@@ -8,3 +8,10 @@ The capital city of [[Locations/Serkonos\|Serkonos]], the southernmost island of
 
 ![Map_Karnaca_Topagraphic.jpg](/img/user/Blades%20of%20Karnaca/Map_Karnaca_Topagraphic.jpg)
 
+| Districts of Karnaca                                                  |
+| --------------------------------------------------------------------- |
+| [[Locations/Districts/Campo Seta Dockyards\|Campo Seta Dockyards]] |
+| [[Locations/Districts/Dust District\|Dust District]]               |
+| [[Locations/Districts/Old Quarter\|Old Quarter]]                   |
+
+{ .block-language-dataview}
