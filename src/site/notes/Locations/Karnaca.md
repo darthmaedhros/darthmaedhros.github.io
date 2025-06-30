@@ -6,7 +6,7 @@
 
 The capital city of [[Locations/Serkonos\|Serkonos]], the southernmost island of the [[Locations/Empire of the Isles\|Empire of the Isles]].
 
-![Map_Karnaca_Topagraphic.jpg](/img/user/Blades%20of%20Karnaca/Map_Karnaca_Topagraphic.jpg)
+![Map_Karnaca_Topagraphic.jpg](/img/user/Blades%20of%20Karnaca/Maps/Karnaca/Map_Karnaca_Topagraphic.jpg)
 
 | Districts of Karnaca                                                  |
 | --------------------------------------------------------------------- |
