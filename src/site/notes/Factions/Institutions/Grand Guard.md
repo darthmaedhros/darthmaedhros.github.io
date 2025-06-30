@@ -3,10 +3,10 @@
 ---
 
 #faction/institution 
-The military and city watch of Karnaca.
+The military and city watch of [[Locations/Karnaca\|Karnaca]].
 
 - **Leader:** Captain Ramsey (conflicted loyalty to Duke/Delilah)
-- **Headquarters:** Quintana Point Barracks
+- **Headquarters:** [[Locations/Districts/Quintana Point\|Quintana Point]] Barracks
 - **Territory:** Most of Karnaca officially, practically weakened
 - **Assets:** City watch stations, armories, prison facilities
 - **Allies:** First Attachment (officially), Palace Civic Patrol

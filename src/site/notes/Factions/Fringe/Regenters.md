@@ -5,7 +5,7 @@
 #faction/fringe 
 Extremist group that seeks to return to the authoritarian rule imposed by Hiram Burrows during the regency.
 
-- **Leader:** Former Lord Regent supporter [["Colonel" Harwick\|"Colonel" Harwick]]
+- **Leader:** Former Lord Regent supporter [[Characters/"Colonel" Harwick\|"Colonel" Harwick]]
 - **Headquarters:** Private residence (Lower Aventa)
 - **Territory:** Lower Aventa meetings, scattered supporters
 - **Assets:** Former regime contacts, authoritarian ideology, hidden weapons

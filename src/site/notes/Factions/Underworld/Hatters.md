@@ -5,11 +5,11 @@
 #faction/underworld  
 Small group connected to a former Dunwall gang. Ingest smuggled goods from Dunwall.
 
-- **Leader:** "Bowler" McGrath
+- **Leader:** [[Characters/"Bowler" McGrath\|"Bowler" McGrath]]
 - **Headquarters:** Hat shop front (Canal District)
-- **Territory:** Dunwall smuggling connections
-- **Assets:** Dunwall connections, smuggling expertise, quality contraband
-- **Allies:** Dunwall criminal contacts
-- **Enemies:** Dead Eels Gang, local competitors
+- **Territory:** [[Locations/Dunwall\|Dunwall]] smuggling connections
+- **Assets:** [[Locations/Dunwall\|Dunwall]] connections, smuggling expertise, quality contraband
+- **Allies:** [[Locations/Dunwall\|Dunwall]] criminal contacts
+- **Enemies:** [[Factions/Underworld/Dead Eels Gang\|Dead Eels Gang]], local competitors
 - **Notable NPCs:** Smuggling contacts, Dunwall liaisons, contraband dealers
 - **Goals:** Maintain Dunwall trade route, smuggle quality goods, eliminate rivals

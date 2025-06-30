@@ -5,7 +5,7 @@
 #faction 
 A group of refugees from Morley who settled in [[Locations/Karnaca\|Karnaca]] during the Morley Famine.
 
-- **Leader:** [[Elder Moira Blackwood\|Elder Moira Blackwood]]
+- **Leader:** [[Characters/Elder Moira Blackwood\|Elder Moira Blackwood]]
 - **Headquarters:** Community center ([[Locations/Districts/Old Quarter\|Old Quarter]])
 - **Territory:** [[Locations/Districts/Old Quarter\|Old Quarter]] neighborhoods
 - **Assets:** Cultural knowledge, mutual aid network, survivor skills

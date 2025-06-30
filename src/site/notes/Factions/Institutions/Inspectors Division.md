@@ -5,7 +5,7 @@
 #faction/institution  
 Division of the Grand Guard tasked with rooting out internal corruption. Underfunded and largely powerless.
 
-- **Leader:** [[Inspector Hume\|Inspector Hume]]
+- **Leader:** [[Characters/Inspector Hume\|Inspector Hume]]
 - **Headquarters:** Small office in [[Factions/Institutions/Grand Guard\|Grand Guard]] complex
 - **Territory:** City-wide (limited authority)
 - **Assets:** Investigation skills, limited Grand Guard resources, integrity

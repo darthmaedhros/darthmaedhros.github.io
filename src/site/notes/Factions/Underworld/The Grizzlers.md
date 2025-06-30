@@ -5,7 +5,7 @@
 #faction/underworld  
 Street toughs who run protection rackets in the Old Quarter.
 
-- **Leader:** [["Big Jack" Torrino\|"Big Jack" Torrino]]
+- **Leader:** [[Characters/"Big Jack" Torrino\|"Big Jack" Torrino]]
 - **Headquarters:** The Growling Hound Pub ([[Locations/Districts/Old Quarter\|Old Quarter]])
 - **Territory:** Old Quarter protection rackets
 - **Assets:** Street muscle, protection network, local businesses

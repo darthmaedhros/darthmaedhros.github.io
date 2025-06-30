@@ -4,8 +4,8 @@
 
 #faction/institution  
 - **Leader:** High Oracle (name varies by campaign)
-- **Headquarters:** Somonos Oracular Chapel ([[Padilla Towne\|Padilla Towne]])
-- **Territory:** [[Padilla Towne\|Padilla Towne]], scattered throughout city
+- **Headquarters:** Somonos Oracular Chapel ([[Locations/Districts/Padilla Towne\|Padilla Towne]])
+- **Territory:** [[Locations/Districts/Padilla Towne\|Padilla Towne]], scattered throughout city
 - **Assets:** Prophetic abilities, network of blind sisters, religious influence
 - **Allies:** [[Factions/Institutions/Abbey of the Everyman\|Abbey of the Everyman]]
 - **Enemies:** [[Factions/Fringe/Brigmore Witches\|Brigmore Witches]], [[Factions/Fringe/Cult of the Outsider\|Cult of the Outsider]]

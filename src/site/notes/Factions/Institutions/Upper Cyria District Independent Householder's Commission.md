@@ -5,9 +5,9 @@
 #faction/institution  
 Organization which maintains the Upper Cyria district.
 
-- **Leader:** [[Commissioner Whitworth\|Commissioner Whitworth]]
+- **Leader:** [[Characters/Commissioner Whitworth\|Commissioner Whitworth]]
 - **Headquarters:** Upper Cyria District Office
-- **Territory:** [[Upper Cyria\|Upper Cyria]] exclusively
+- **Territory:** [[Locations/Districts/Upper Cyria\|Upper Cyria]] exclusively
 - **Assets:** Private security, maintenance crews, social connections
 - **Allies:** The [[Factions/Underworld/Eyeless\|Eyeless]] (unofficial), wealthy residents
 - **Enemies:** Criminal elements threatening property values

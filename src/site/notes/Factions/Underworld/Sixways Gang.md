@@ -3,8 +3,8 @@
 ---
 
 #faction/underworld 
-- **Leader:** [["Six-Shot" Sammy\|"Six-Shot" Sammy]]
-- **Headquarters:** Abandoned building ([[Canal District\|Canal District]])
+- **Leader:** [[Characters/"Six-Shot" Sammy\|"Six-Shot" Sammy]]
+- **Headquarters:** Abandoned building ([[Locations/Districts/Canal District\|Canal District]])
 - **Territory:** Six-way intersection control
 - **Assets:** Strategic location, toll collection, local intimidation
 - **Allies:** Occasionally other small gangs

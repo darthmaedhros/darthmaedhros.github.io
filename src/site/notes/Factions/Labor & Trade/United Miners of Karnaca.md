@@ -5,7 +5,7 @@
 #faction/labor_and_trade  
 Union of silver miners.
 
-- **Leader:** [[Lucia Pastor\|Lucia Pastor]]
+- **Leader:** [[Characters/Lucia Pastor\|Lucia Pastor]]
 - **Headquarters:** Miner's Rest Tavern ([[Locations/Districts/Dust District\|Dust District]])
 - **Territory:** [[Locations/Districts/Dust District\|Dust District]], mining areas
 - **Assets:** Worker solidarity, knowledge of underground passages, mining equipment

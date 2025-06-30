@@ -3,7 +3,7 @@
 ---
 
 #faction/underworld  
-- **Leader:** "Quick Silver" Mercurio
+- **Leader:** [[Characters/"Quick Silver" Mercurio\|"Quick Silver" Mercurio]]
 - **Headquarters:** Street corners (various districts)
 - **Territory:** Small-time operations city-wide
 - **Assets:** Street-level intelligence, petty crime network, youth recruitment

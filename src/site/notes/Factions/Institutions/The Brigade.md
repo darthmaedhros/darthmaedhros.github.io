@@ -5,7 +5,7 @@
 #faction/institution  
 Detachment of the Grand Guard responsible for managing fires and the bloodfly concern.
 
-- **Leader:** Fire Captain Rodriguez
+- **Leader:** [[Characters/Fire Captain Rodriguez\|Fire Captain Rodriguez]]
 - **Headquarters:** Fire Station (multiple districts)
 - **Territory:** City-wide emergency response
 - **Assets:** Fire engines, bloodfly expertise, emergency authority

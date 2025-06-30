@@ -5,8 +5,8 @@
 #faction/underworld  
 Splinter faction of the Hatters. Main source of income is shipping contraband, including weapons and equipment used by the Grand Guard.
 
-- **Leader:** Former Hatter [["Roaring" Bill\|"Roaring" Bill]]
-- **Headquarters:** Warehouse ([[Canal District\|Canal District]])
+- **Leader:** Former Hatter [[Characters/"Roaring" Bill\|"Roaring" Bill]]
+- **Headquarters:** Warehouse ([[Locations/Districts/Canal District\|Canal District]])
 - **Territory:** Contraband shipping routes
 - **Assets:** Shipping connections, weapons smuggling, Grand Guard contacts
 - **Allies:** Corrupt [[Factions/Institutions/Grand Guard\|Grand Guard]] members
