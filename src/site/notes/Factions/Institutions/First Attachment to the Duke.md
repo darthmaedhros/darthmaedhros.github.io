@@ -12,4 +12,4 @@ The Duke of Serkonos' personal guards.
 - **Allies:** Grand Guard (officially), Palace Civic Patrol
 - **Enemies:** Anyone threatening ducal power
 - **Notable NPCs:** Various elite guardsmen
-- **Goals:** Protect the Duke (now complicated by Delilah's presence)
+- **Goals:** Protect the Duke
