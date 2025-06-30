@@ -1,15 +1,23 @@
 [
 {
 		"title": "Abbey of the Everyman",
-		"date":"Fri Jun 27 2025 02:51:00 GMT+0000 (Coordinated Universal Time)",
+		"date":"Mon Jun 30 2025 21:05:33 GMT+0000 (Coordinated Universal Time)",
 		"url":"/factions/abbey-of-the-everyman/",
 		"content": "#faction/institution\nRivals <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/howlers/\">Howlers</a>.",
 		"tags": ["faction/institution", "note"]
 },
 
 {
+		"title": "Morlean Refugees",
+		"date":"Mon Jun 30 2025 21:05:33 GMT+0000 (Coordinated Universal Time)",
+		"url":"/factions/citizenry/morlean-refugees/",
+		"content": "#faction\nA group of refugees from Morley who settled in <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/\">Karnaca</a> during the Morley Famine.\n\nLeader: <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Elder Moira Blackwood</a>\nHeadquarters: Community center (<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/districts/old-quarter/\">Old Quarter</a>)\nTerritory: <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/districts/old-quarter/\">Old Quarter</a> neighborhoods\nAssets: Cultural knowledge, mutual aid network, survivor skills\nAllies: <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/underworld/howlers/\">Howlers</a>, sympathetic citizens\nEnemies: <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/underworld/the-grizzlers/\">The Grizzlers</a> (territorial disputes), xenophobic groups\nNotable NPCs: Community leaders, refugee families, cultural keepers\nGoals: Establish permanent community, preserve Morlean culture, mutual protection",
+		"tags": ["faction", "note"]
+},
+
+{
 		"title": "Cult of the Outsider",
-		"date":"Fri Jun 27 2025 02:51:00 GMT+0000 (Coordinated Universal Time)",
+		"date":"Mon Jun 30 2025 21:05:33 GMT+0000 (Coordinated Universal Time)",
 		"url":"/factions/cult-of-the-outsider/",
 		"content": "#faction\nThis is a template for a faction.",
 		"tags": ["faction", "note"]
@@ -17,7 +25,7 @@
 
 {
 		"title": "Dead Eels Gang",
-		"date":"Fri Jun 27 2025 02:51:00 GMT+0000 (Coordinated Universal Time)",
+		"date":"Mon Jun 30 2025 21:05:33 GMT+0000 (Coordinated Universal Time)",
 		"url":"/factions/dead-eels-gang/",
 		"content": "#faction/underworld\nKnown for piracy along the canals. Rival the Hatters.",
 		"tags": ["faction/underworld", "note"]
@@ -25,7 +33,7 @@
 
 {
 		"title": "Eyeless",
-		"date":"Fri Jun 27 2025 02:51:00 GMT+0000 (Coordinated Universal Time)",
+		"date":"Mon Jun 30 2025 21:05:33 GMT+0000 (Coordinated Universal Time)",
 		"url":"/factions/eyeless/",
 		"content": "#faction/underworld\nNotorious criminal organization obsessed with the occult.",
 		"tags": ["faction/underworld", "note"]
@@ -33,15 +41,55 @@
 
 {
 		"title": "Factions",
-		"date":"Fri Jun 27 2025 02:51:00 GMT+0000 (Coordinated Universal Time)",
+		"date":"Mon Jun 30 2025 21:05:33 GMT+0000 (Coordinated Universal Time)",
 		"url":"/factions/factions/",
-		"content": "Factions are various groups which vie for control of <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/\">Karnaca</a>.\n\nFaction\nTier\nStatus\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/abbey-of-the-everyman/\">Abbey of the Everyman</a>\nIII\n-1\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/cult-of-the-outsider/\">Cult of the Outsider</a>\nIV\n0\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/dead-eels-gang/\">Dead Eels Gang</a>\nII\n-\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/eyeless/\">Eyeless</a>\n-\n-\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/grand-guard/\">Grand Guard</a>\nIII\n-\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/hatters/\">Hatters</a>\nII\n0\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/howlers/\">Howlers</a>\nIII\n1\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/mercurio-street-gang/\">Mercurio Street Gang</a>\nI\n-1\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/roaring-boys/\">Roaring Boys</a>\nI\n0\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/sixways-gang/\">Sixways Gang</a>\n-\n-\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/the-grizzlers/\">The Grizzlers</a>\nII\n0\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/the-hagsmen/\">The Hagsmen</a>\nII\n0",
+		"content": "Factions are various groups which vie for control of <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/\">Karnaca</a>.\n\nUnderworld\nTier\nStatus\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/underworld/eyeless/\">Eyeless</a>\nIII\n-\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/underworld/howlers/\">Howlers</a>\nIII\n1\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/underworld/the-hagsmen/\">The Hagsmen</a>\nII\n0\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/underworld/dead-eels-gang/\">Dead Eels Gang</a>\nII\n-\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/underworld/hatters/\">Hatters</a>\nII\n0\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/underworld/the-grizzlers/\">The Grizzlers</a>\nII\n0\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/underworld/mercurio-street-gang/\">Mercurio Street Gang</a>\nI\n-1\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/underworld/sixways-gang/\">Sixways Gang</a>\nI\n-\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/underworld/roaring-boys/\">Roaring Boys</a>\nI\n0\n\nInstitutions\nTier\nStatus\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/institutions/first-attachment-to-the-duke/\">First Attachment to the Duke</a>\nIV\n-\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/institutions/grand-guard/\">Grand Guard</a>\nIII\n-\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/institutions/abbey-of-the-everyman/\">Abbey of the Everyman</a>\nIII\n-1\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/institutions/upper-cyria-district-independent-householder-s-commission/\">Upper Cyria District Independent Householder's Commission</a>\nIII\n-\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/institutions/oracular-order/\">Oracular Order</a>\nII\n-\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/institutions/the-brigade/\">The Brigade</a>\nII\n-\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/institutions/inspectors-division/\">Inspectors Division</a>\nII\n-\n\nFringe\nTier\nStatus\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/fringe/cult-of-delilah/\">Cult of Delilah</a>\nV\n-\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/fringe/brigmore-witches/\">Brigmore Witches</a>\nIV\n-\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/fringe/cult-of-the-outsider/\">Cult of the Outsider</a>\nIV\n0\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/fringe/regenters/\">Regenters</a>\nII\n-\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/fringe/the-chanters/\">The Chanters</a>\nII\n-\n\nLabor &amp; Trade\nTier\nStatus\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/labor-and-trade/fishers-union/\">Fishers Union</a>\nIII\n-\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/labor-and-trade/united-miners-of-karnaca/\">United Miners of Karnaca</a>\n-\n-",
 		"tags": [ "note"]
 },
 
 {
+		"title": "Brigmore Witches",
+		"date":"Mon Jun 30 2025 21:05:33 GMT+0000 (Coordinated Universal Time)",
+		"url":"/factions/fringe/brigmore-witches/",
+		"content": "#faction/fringe\nThe Brigmore Witches are a cult of female practicioners of black magic.\n\nLeader: <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Breanna Ashworth</a>\nHeadquarters: Royal Conservatory (<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Cyria Gardens</a>)\nTerritory: <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Cyria Gardens</a>, infiltrating <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Upper Cyria</a>\nAssets: Gravehounds, magical artifacts, botanical knowledge\nAllies: <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/fringe/cult-of-delilah/\">Cult of Delilah</a>, some <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/underworld/eyeless/\">Eyeless</a> members\nEnemies: <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/institutions/abbey-of-the-everyman/\">Abbey of the Everyman</a>, <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/institutions/oracular-order/\">Oracular Order</a>\nNotable NPCs: Various sister-witches, botanical researchers\nGoals: Serve Delilah, expand magical influence, eliminate Abbey presence",
+		"tags": ["faction/fringe", "note"]
+},
+
+{
+		"title": "Cult of Delilah",
+		"date":"Mon Jun 30 2025 21:05:33 GMT+0000 (Coordinated Universal Time)",
+		"url":"/factions/fringe/cult-of-delilah/",
+		"content": "#faction/fringe\nCult worshiping the new empress.\n\nLeader: Delilah Kaldwin (The Usurper Empress)\nHeadquarters: Grand Palace (Palace District)\nTerritory: Palace District, growing influence in Cyria Gardens\nAssets: Royal Treasury, Clockwork Soldiers, Brigmore Witches network\nAllies: Brigmore Witches, some corrupted Palace staff\nEnemies: <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/institutions/abbey-of-the-everyman/\">Abbey of the Everyman</a>, any remaining Kaldwin loyalists, Grand Guard (conflicted)\nNotable NPCs: Breanna Ashworth (lieutenant), various Palace courtiers\nGoals: Consolidate power, eliminate threats to rule, expand magical influence",
+		"tags": ["faction/fringe", "note"]
+},
+
+{
+		"title": "Cult of the Outsider",
+		"date":"Mon Jun 30 2025 21:05:33 GMT+0000 (Coordinated Universal Time)",
+		"url":"/factions/fringe/cult-of-the-outsider/",
+		"content": "#faction/fringe\nSecretive society.\n\nLeader: The Enlightened (mysterious council)\nHeadquarters: Hidden shrines throughout <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Upper Cyria</a>\nTerritory: <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Upper Cyria</a> (secret), cells citywide\nAssets: Occult knowledge, bone charms, underground network\nAllies: The <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/underworld/eyeless/\">Eyeless</a> (some overlap)\nEnemies: <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/institutions/abbey-of-the-everyman/\">Abbey of the Everyman</a>, <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/institutions/oracular-order/\">Oracular Order</a>\nNotable NPCs: Various cultists, occult scholars\nGoals: Spread <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Outsider</a> worship, undermine the Abbey, seek forbidden knowledge",
+		"tags": ["faction/fringe", "note"]
+},
+
+{
+		"title": "Regenters",
+		"date":"Mon Jun 30 2025 21:05:33 GMT+0000 (Coordinated Universal Time)",
+		"url":"/factions/fringe/regenters/",
+		"content": "#faction/fringe\nExtremist group that seeks to return to the authoritarian rule imposed by Hiram Burrows during the regency.\n\nLeader: Former Lord Regent supporter <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">&quot;Colonel&quot; Harwick</a>\nHeadquarters: Private residence (Lower Aventa)\nTerritory: Lower Aventa meetings, scattered supporters\nAssets: Former regime contacts, authoritarian ideology, hidden weapons\nAllies: Disaffected former officials, authoritarian sympathizers\nEnemies: Current Kaldwin Dynasty, democratic elements, most citizens\nNotable NPCs: Former officials, hardline supporters, underground organizers\nGoals: Restore authoritarian rule, eliminate current government, return to &quot;order&quot;",
+		"tags": ["faction/fringe", "note"]
+},
+
+{
+		"title": "The Chanters",
+		"date":"Mon Jun 30 2025 21:05:33 GMT+0000 (Coordinated Universal Time)",
+		"url":"/factions/fringe/the-chanters/",
+		"content": "#faction/fringe\nGroup of students with interests in the occult.\n\nLeader: Student leader varies\nHeadquarters: University spaces, private homes\nTerritory: Academic areas, student gatherings\nAssets: Academic resources, occult research, student network\nAllies: Curious academics, occult researchers\nEnemies: <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/institutions/abbey-of-the-everyman/\">Abbey of the Everyman</a>, strict authorities\nNotable NPCs: University students, junior faculty, occult enthusiasts\nGoals: Study occult phenomena, academic freedom, hidden knowledge",
+		"tags": ["faction/fringe", "note"]
+},
+
+{
 		"title": "Grand Guard",
-		"date":"Fri Jun 27 2025 02:51:00 GMT+0000 (Coordinated Universal Time)",
+		"date":"Mon Jun 30 2025 21:05:33 GMT+0000 (Coordinated Universal Time)",
 		"url":"/factions/grand-guard/",
 		"content": "#faction/institution\nThe military and city watch of Karnaca.",
 		"tags": ["faction/institution", "note"]
@@ -49,7 +97,7 @@
 
 {
 		"title": "Hatters",
-		"date":"Fri Jun 27 2025 02:51:00 GMT+0000 (Coordinated Universal Time)",
+		"date":"Mon Jun 30 2025 21:05:33 GMT+0000 (Coordinated Universal Time)",
 		"url":"/factions/hatters/",
 		"content": "#faction/underworld\nSmall group connected to a former Dunwall gang. Ingest smuggled goods from Dunwall.",
 		"tags": ["faction/underworld", "note"]
@@ -57,15 +105,87 @@
 
 {
 		"title": "Howlers",
-		"date":"Fri Jun 27 2025 02:51:00 GMT+0000 (Coordinated Universal Time)",
+		"date":"Mon Jun 30 2025 21:05:33 GMT+0000 (Coordinated Universal Time)",
 		"url":"/factions/howlers/",
 		"content": "#faction/underworld\nGang which sees themselves as idealists and revolutionaries trying to overthrow the corrupt <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/grand-guard/\">Grand Guard</a>.\nRival <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/grand-guard/\">Grand Guard</a>. Currently at war with the <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/abbey-of-the-everyman/\">Abbey of the Everyman</a>.",
 		"tags": ["faction/underworld", "note"]
 },
 
 {
+		"title": "Abbey of the Everyman",
+		"date":"Mon Jun 30 2025 21:05:33 GMT+0000 (Coordinated Universal Time)",
+		"url":"/factions/institutions/abbey-of-the-everyman/",
+		"content": "#faction/institution\nReligious order which believes &quot;the universe is unknowably vast and swarming with all manner of dangerous spirits and forces, most of which are hostile to man's existence.&quot; State religion of the Empire. Rivals <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/underworld/howlers/\">Howlers</a>.\n\nLeader: <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Vice Overseer Liam Byrne</a> (Vice Overseer of Karnaca)\nHeadquarters: Overseer Chapel (<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/districts/campo-seta-dockyards/\">Campo Seta Dockyards</a>)\nTerritory: Campo Seta, shrines throughout city\nAssets: Music boxes, Overseers, religious authority\nAllies: <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/institutions/oracular-order/\">Oracular Order</a>, <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/institutions/grand-guard/\">Grand Guard</a> (officially)\nEnemies: All occult factions, Howlers, criminal organizations\nNotable NPCs: Various Overseers, Abbey scribes\nGoals: Eliminate heresy, maintain religious order, combat supernatural threats",
+		"tags": ["faction/institution", "note"]
+},
+
+{
+		"title": "First Attachment to the Duke",
+		"date":"Mon Jun 30 2025 21:05:33 GMT+0000 (Coordinated Universal Time)",
+		"url":"/factions/institutions/first-attachment-to-the-duke/",
+		"content": "#faction/institution\nThe Duke of Serkonos' personal guards.\n\nLeader: Captain Mortimer Ramsey\nHeadquarters: Grand Palace\nTerritory: Palace District exclusively\nAssets: Elite guards, palace armory, direct ducal authority\nAllies: Grand Guard (officially), Palace Civic Patrol\nEnemies: Anyone threatening ducal power\nNotable NPCs: Various elite guardsmen\nGoals: Protect the Duke (now complicated by Delilah's presence)",
+		"tags": ["faction/institution", "note"]
+},
+
+{
+		"title": "Grand Guard",
+		"date":"Mon Jun 30 2025 21:05:33 GMT+0000 (Coordinated Universal Time)",
+		"url":"/factions/institutions/grand-guard/",
+		"content": "#faction/institution\nThe military and city watch of Karnaca.\n\nLeader: Captain Ramsey (conflicted loyalty to Duke/Delilah)\nHeadquarters: Quintana Point Barracks\nTerritory: Most of Karnaca officially, practically weakened\nAssets: City watch stations, armories, prison facilities\nAllies: First Attachment (officially), Palace Civic Patrol\nEnemies: Howlers, most criminal organizations\nNotable NPCs: Inspector Hume (Inspectors Division), Sergeant Blake\nGoals: Maintain order (increasingly difficult), navigate political upheaval",
+		"tags": ["faction/institution", "note"]
+},
+
+{
+		"title": "Inspectors Division",
+		"date":"Mon Jun 30 2025 21:05:33 GMT+0000 (Coordinated Universal Time)",
+		"url":"/factions/institutions/inspectors-division/",
+		"content": "#faction/institution\nDivision of the Grand Guard tasked with rooting out internal corruption. Underfunded and largely powerless.\n\nLeader: <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Inspector Hume</a>\nHeadquarters: Small office in <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/institutions/grand-guard/\">Grand Guard</a> complex\nTerritory: City-wide (limited authority)\nAssets: Investigation skills, limited Grand Guard resources, integrity\nAllies: Honest Grand Guard members (few), concerned citizens\nEnemies: Corrupt officials, criminal organizations\nNotable NPCs: Deputy inspectors, informants, whistleblowers\nGoals: Root out corruption, restore Grand Guard integrity, bring justice",
+		"tags": ["faction/institution", "note"]
+},
+
+{
+		"title": "Oracular Order",
+		"date":"Mon Jun 30 2025 21:05:33 GMT+0000 (Coordinated Universal Time)",
+		"url":"/factions/institutions/oracular-order/",
+		"content": "#faction/institution\n\nLeader: High Oracle (name varies by campaign)\nHeadquarters: Somonos Oracular Chapel (<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Padilla Towne</a>)\nTerritory: <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Padilla Towne</a>, scattered throughout city\nAssets: Prophetic abilities, network of blind sisters, religious influence\nAllies: <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/institutions/abbey-of-the-everyman/\">Abbey of the Everyman</a>\nEnemies: <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/fringe/brigmore-witches/\">Brigmore Witches</a>, <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/fringe/cult-of-the-outsider/\">Cult of the Outsider</a>\nNotable NPCs: Various Oracle Sisters, chapel attendants\nGoals: Divine guidance, combat witchcraft, maintain spiritual purity",
+		"tags": ["faction/institution", "note"]
+},
+
+{
+		"title": "The Brigade",
+		"date":"Mon Jun 30 2025 21:05:33 GMT+0000 (Coordinated Universal Time)",
+		"url":"/factions/institutions/the-brigade/",
+		"content": "#faction/institution\nDetachment of the Grand Guard responsible for managing fires and the bloodfly concern.\n\nLeader: Fire Captain Rodriguez\nHeadquarters: Fire Station (multiple districts)\nTerritory: City-wide emergency response\nAssets: Fire engines, bloodfly expertise, emergency authority\nAllies: Grand Guard (officially), grateful citizens\nEnemies: Arsonists, bloodfly sources\nNotable NPCs: Firefighters, bloodfly specialists, emergency responders\nGoals: Fire prevention, bloodfly control, public safety",
+		"tags": ["faction/institution", "note"]
+},
+
+{
+		"title": "Upper Cyria District Independent Householder's Commission",
+		"date":"Mon Jun 30 2025 21:05:33 GMT+0000 (Coordinated Universal Time)",
+		"url":"/factions/institutions/upper-cyria-district-independent-householder-s-commission/",
+		"content": "#faction/institution\nOrganization which maintains the Upper Cyria district.\n\nLeader: <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Commissioner Whitworth</a>\nHeadquarters: Upper Cyria District Office\nTerritory: <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Upper Cyria</a> exclusively\nAssets: Private security, maintenance crews, social connections\nAllies: The <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/underworld/eyeless/\">Eyeless</a> (unofficial), wealthy residents\nEnemies: Criminal elements threatening property values\nNotable NPCs: Wealthy residents, private guards, city planners\nGoals: Maintain exclusive district, protect property values, keep out &quot;undesirables&quot;",
+		"tags": ["faction/institution", "note"]
+},
+
+{
+		"title": "Fishers Union",
+		"date":"Mon Jun 30 2025 21:05:33 GMT+0000 (Coordinated Universal Time)",
+		"url":"/factions/labor-and-trade/fishers-union/",
+		"content": "#faction/labor_and_trade\nGroup of factory workers at the Santiago Fisheries.\n\nLeader: <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Captain Montrose</a>\nHeadquarters: <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Santiago Fisheries</a>\nTerritory: <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Santiago Fisheries</a>, fishing docks\nAssets: Fishing fleet, processing facilities, worker network\nAllies: <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/underworld/howlers/\">Howlers</a> (unofficial), dock workers\nEnemies: Factory owners who exploit workers\nNotable NPCs: Union representatives, boat captains, dock workers\nGoals: Better working conditions, fair wages, protect fishing rights",
+		"tags": ["faction/labor_and_trade", "note"]
+},
+
+{
+		"title": "United Miners of Karnaca",
+		"date":"Mon Jun 30 2025 21:05:33 GMT+0000 (Coordinated Universal Time)",
+		"url":"/factions/labor-and-trade/united-miners-of-karnaca/",
+		"content": "#faction/labor_and_trade\nUnion of silver miners.\n\nLeader: <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Lucia Pastor</a>\nHeadquarters: Miner's Rest Tavern (<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/districts/dust-district/\">Dust District</a>)\nTerritory: <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/districts/dust-district/\">Dust District</a>, mining areas\nAssets: Worker solidarity, knowledge of underground passages, mining equipment\nAllies: <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/underworld/howlers/\">Howlers</a>, <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/citizenry/morlean-refugees/\">Morlean Refugees</a>\nEnemies: <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/institutions/grand-guard/\">Grand Guard</a>, mine owners, Duke's administration\nNotable NPCs: Veteran miners, union organizers, worker families\nGoals: Fair wages, safe working conditions, end dust storm negligence",
+		"tags": ["faction/labor_and_trade", "note"]
+},
+
+{
 		"title": "Mercurio Street Gang",
-		"date":"Fri Jun 27 2025 02:51:00 GMT+0000 (Coordinated Universal Time)",
+		"date":"Mon Jun 30 2025 21:05:33 GMT+0000 (Coordinated Universal Time)",
 		"url":"/factions/mercurio-street-gang/",
 		"content": "#faction/underworld",
 		"tags": ["faction/underworld", "note"]
@@ -73,7 +193,7 @@
 
 {
 		"title": "Roaring Boys",
-		"date":"Fri Jun 27 2025 02:51:00 GMT+0000 (Coordinated Universal Time)",
+		"date":"Mon Jun 30 2025 21:05:33 GMT+0000 (Coordinated Universal Time)",
 		"url":"/factions/roaring-boys/",
 		"content": "#faction/underworld\nSplinter faction of the Hatters. Main source of income is shipping contraband, including weapons and equipment used by the Grand Guard.",
 		"tags": ["faction/underworld", "note"]
@@ -81,7 +201,7 @@
 
 {
 		"title": "Sixways Gang",
-		"date":"Fri Jun 27 2025 02:51:00 GMT+0000 (Coordinated Universal Time)",
+		"date":"Mon Jun 30 2025 21:05:33 GMT+0000 (Coordinated Universal Time)",
 		"url":"/factions/sixways-gang/",
 		"content": "#faction/underworld\nThis is a template for a faction.This is a template for a faction.",
 		"tags": ["faction/underworld", "note"]
@@ -89,7 +209,7 @@
 
 {
 		"title": "The Grizzlers",
-		"date":"Fri Jun 27 2025 02:51:00 GMT+0000 (Coordinated Universal Time)",
+		"date":"Mon Jun 30 2025 21:05:33 GMT+0000 (Coordinated Universal Time)",
 		"url":"/factions/the-grizzlers/",
 		"content": "#faction/underworld\nStreet toughs who run protection rackets in the Old Quarter.",
 		"tags": ["faction/underworld", "note"]
@@ -97,15 +217,87 @@
 
 {
 		"title": "The Hagsmen",
-		"date":"Fri Jun 27 2025 02:51:00 GMT+0000 (Coordinated Universal Time)",
+		"date":"Mon Jun 30 2025 21:05:33 GMT+0000 (Coordinated Universal Time)",
 		"url":"/factions/the-hagsmen/",
 		"content": "#faction/underworld\nGang of smugglers and cutthroats known to dump bodies in the canal for the <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">hagfish</a> to dispose of.",
 		"tags": ["faction/underworld", "note"]
 },
 
 {
+		"title": "Dead Eels Gang",
+		"date":"Mon Jun 30 2025 21:05:33 GMT+0000 (Coordinated Universal Time)",
+		"url":"/factions/underworld/dead-eels-gang/",
+		"content": "#faction/underworld\nKnown for piracy along the canals. Rival the Hatters.\n\nLeader: &quot;Eel Eye&quot; Patricia\nHeadquarters: Floating barge (Canal District)\nTerritory: Canal piracy operations\nAssets: Fast boats, canal knowledge, piracy expertise\nAllies: The Hagsmen\nEnemies: Hatters, merchant vessels, Grand Guard water patrol\nNotable NPCs: Boat crews, canal pirates, fence operations\nGoals: Control canal piracy, steal valuable cargo, avoid capture",
+		"tags": ["faction/underworld", "note"]
+},
+
+{
+		"title": "Eyeless",
+		"date":"Mon Jun 30 2025 21:05:33 GMT+0000 (Coordinated Universal Time)",
+		"url":"/factions/underworld/eyeless/",
+		"content": "#faction/underworld\nNotorious criminal organization obsessed with the occult.\n\nLeader: <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Dolores Michaels</a>, <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Ivan Jacobi</a>, <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Shan Yun</a> (Triumvirate)\nHeadquarters: <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Dolores Michaels Deposit &amp; Loan</a> (<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Upper Cyria</a>)\nTerritory: <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Upper Cyria</a>, financial district operations\nAssets: Banking network, blackmail material, occult artifacts\nAllies: <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/fringe/cult-of-the-outsider/\">Cult of the Outsider</a> (some members), corrupt officials\nEnemies: <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/institutions/abbey-of-the-everyman/\">Abbey of the Everyman</a>, honest law enforcement\nNotable NPCs: Bank employees, occult financiers, corrupt aristocrats\nGoals: Accumulate wealth and occult power, manipulate city finances",
+		"tags": ["faction/underworld", "note"]
+},
+
+{
+		"title": "Hatters",
+		"date":"Mon Jun 30 2025 21:05:33 GMT+0000 (Coordinated Universal Time)",
+		"url":"/factions/underworld/hatters/",
+		"content": "#faction/underworld\nSmall group connected to a former Dunwall gang. Ingest smuggled goods from Dunwall.\n\nLeader: &quot;Bowler&quot; McGrath\nHeadquarters: Hat shop front (Canal District)\nTerritory: Dunwall smuggling connections\nAssets: Dunwall connections, smuggling expertise, quality contraband\nAllies: Dunwall criminal contacts\nEnemies: Dead Eels Gang, local competitors\nNotable NPCs: Smuggling contacts, Dunwall liaisons, contraband dealers\nGoals: Maintain Dunwall trade route, smuggle quality goods, eliminate rivals",
+		"tags": ["faction/underworld", "note"]
+},
+
+{
+		"title": "Howlers",
+		"date":"Mon Jun 30 2025 21:05:33 GMT+0000 (Coordinated Universal Time)",
+		"url":"/factions/underworld/howlers/",
+		"content": "#faction/underworld\nGang which sees themselves as idealists and revolutionaries trying to overthrow the corrupt <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/institutions/grand-guard/\">Grand Guard</a>.\nRival <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/institutions/grand-guard/\">Grand Guard</a>. Currently at war with the <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/institutions/abbey-of-the-everyman/\">Abbey of the Everyman</a>.\n\nLeader: <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Paolo</a> (The Undying)\nHeadquarters: <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Crone's Hand Saloon</a> (<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/districts/dust-district/\">Dust District</a>)\nTerritory: <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/districts/dust-district/\">Dust District</a>, influence in Santiago Fisheries\nAssets: Street network, smuggling routes, popular support\nAllies: <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/labor-and-trade/united-miners-of-karnaca/\">United Miners of Karnaca</a>, <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/citizenry/morlean-refugees/\">Morlean Refugees</a>, <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Hagsmen</a>\nEnemies: <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/institutions/grand-guard/\">Grand Guard</a>, <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/institutions/abbey-of-the-everyman/\">Abbey of the Everyman</a>\nNotable NPCs: Byrne (if turned), various gang lieutenants\nGoals: Overthrow corrupt authority, control Dust District trade",
+		"tags": ["faction/underworld", "note"]
+},
+
+{
+		"title": "Mercurio Street Gang",
+		"date":"Mon Jun 30 2025 21:05:33 GMT+0000 (Coordinated Universal Time)",
+		"url":"/factions/underworld/mercurio-street-gang/",
+		"content": "#faction/underworld\n\nLeader: &quot;Quick Silver&quot; Mercurio\nHeadquarters: Street corners (various districts)\nTerritory: Small-time operations city-wide\nAssets: Street-level intelligence, petty crime network, youth recruitment\nAllies: Larger gangs (as needed)\nEnemies: Law enforcement, rival small gangs\nNotable NPCs: Street youth, petty criminals, neighborhood informants\nGoals: Survive and grow, avoid bigger gang conflicts, make quick money",
+		"tags": ["faction/underworld", "note"]
+},
+
+{
+		"title": "Roaring Boys",
+		"date":"Mon Jun 30 2025 21:05:33 GMT+0000 (Coordinated Universal Time)",
+		"url":"/factions/underworld/roaring-boys/",
+		"content": "#faction/underworld\nSplinter faction of the Hatters. Main source of income is shipping contraband, including weapons and equipment used by the Grand Guard.\n\nLeader: Former Hatter <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">&quot;Roaring&quot; Bill</a>\nHeadquarters: Warehouse (<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Canal District</a>)\nTerritory: Contraband shipping routes\nAssets: Shipping connections, weapons smuggling, Grand Guard contacts\nAllies: Corrupt <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/institutions/grand-guard/\">Grand Guard</a> members\nEnemies: <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/underworld/hatters/\">Hatters</a> (former allies), honest law enforcement\nNotable NPCs: Weapons smugglers, corrupt guards, shipping contacts\nGoals: Profit from weapons trade, maintain Grand Guard corruption, avoid detection",
+		"tags": ["faction/underworld", "note"]
+},
+
+{
+		"title": "Sixways Gang",
+		"date":"Mon Jun 30 2025 21:05:33 GMT+0000 (Coordinated Universal Time)",
+		"url":"/factions/underworld/sixways-gang/",
+		"content": "#faction/underworld\n\nLeader: <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">&quot;Six-Shot&quot; Sammy</a>\nHeadquarters: Abandoned building (<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Canal District</a>)\nTerritory: Six-way intersection control\nAssets: Strategic location, toll collection, local intimidation\nAllies: Occasionally other small gangs\nEnemies: Anyone challenging their intersection, <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/institutions/grand-guard/\">Grand Guard</a>\nNotable NPCs: Intersection guards, toll collectors, local toughs\nGoals: Control intersection traffic, collect tolls, maintain small territory",
+		"tags": ["faction/underworld", "note"]
+},
+
+{
+		"title": "The Grizzlers",
+		"date":"Mon Jun 30 2025 21:05:33 GMT+0000 (Coordinated Universal Time)",
+		"url":"/factions/underworld/the-grizzlers/",
+		"content": "#faction/underworld\nStreet toughs who run protection rackets in the Old Quarter.\n\nLeader: <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">&quot;Big Jack&quot; Torrino</a>\nHeadquarters: The Growling Hound Pub (<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/districts/old-quarter/\">Old Quarter</a>)\nTerritory: Old Quarter protection rackets\nAssets: Street muscle, protection network, local businesses\nAllies: <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/underworld/howlers/\">Howlers</a> (uneasy alliance)\nEnemies: <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/citizenry/morlean-refugees/\">Morlean Refugees</a> (competition for territory)\nNotable NPCs: Protection racket enforcers, affiliated shopkeepers\nGoals: Control Old Quarter commerce, collect protection fees, maintain territory",
+		"tags": ["faction/underworld", "note"]
+},
+
+{
+		"title": "The Hagsmen",
+		"date":"Mon Jun 30 2025 21:05:33 GMT+0000 (Coordinated Universal Time)",
+		"url":"/factions/underworld/the-hagsmen/",
+		"content": "#faction/underworld\nGang of smugglers and cutthroats known to dump bodies in the canal for the <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">hagfish</a> to dispose of.\n\nLeader: &quot;Fishgut&quot; Morris\nHeadquarters: Abandoned warehouse (<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Canal District</a>)\nTerritory: Canal District smuggling routes\nAssets: Canal knowledge, body disposal expertise, smuggling network\nAllies: <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/underworld/howlers/\">Howlers</a>, <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/underworld/dead-eels-gang/\">Dead Eels Gang</a>\nEnemies: <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/institutions/grand-guard/\">Grand Guard</a>, rival smugglers\nNotable NPCs: Canal runners, hagfish handlers, smuggling contacts\nGoals: Control canal smuggling, maintain body disposal service, avoid law enforcement",
+		"tags": ["faction/underworld", "note"]
+},
+
+{
 		"title": "Campo Seta Dockyards",
-		"date":"Fri Jun 27 2025 02:51:00 GMT+0000 (Coordinated Universal Time)",
+		"date":"Mon Jun 30 2025 21:05:33 GMT+0000 (Coordinated Universal Time)",
 		"url":"/locations/districts/campo-seta-dockyards/",
 		"content": "#location/district #empire_of_the_isles/serkonos/karnaca/campo_seta_dockyards",
 		"tags": ["location/district", "empire_of_the_isles/serkonos/karnaca/campo_seta_dockyards", "note"]
@@ -113,7 +305,7 @@
 
 {
 		"title": "Dust District",
-		"date":"Fri Jun 27 2025 02:51:00 GMT+0000 (Coordinated Universal Time)",
+		"date":"Mon Jun 30 2025 21:05:33 GMT+0000 (Coordinated Universal Time)",
 		"url":"/locations/districts/dust-district/",
 		"content": "#location/district #empire_of_the_isles/serkonos/karnaca/dust_district",
 		"tags": ["location/district", "empire_of_the_isles/serkonos/karnaca/dust_district", "note"]
@@ -121,7 +313,7 @@
 
 {
 		"title": "Old Quarter",
-		"date":"Fri Jun 27 2025 02:51:00 GMT+0000 (Coordinated Universal Time)",
+		"date":"Mon Jun 30 2025 21:05:33 GMT+0000 (Coordinated Universal Time)",
 		"url":"/locations/districts/old-quarter/",
 		"content": "#location/district #empire_of_the_isles/serkonos/karnaca/old_quarter",
 		"tags": ["location/district", "empire_of_the_isles/serkonos/karnaca/old_quarter", "note"]
@@ -129,7 +321,7 @@
 
 {
 		"title": "Empire of the Isles",
-		"date":"Fri Jun 27 2025 02:51:00 GMT+0000 (Coordinated Universal Time)",
+		"date":"Mon Jun 30 2025 21:05:33 GMT+0000 (Coordinated Universal Time)",
 		"url":"/locations/empire-of-the-isles/",
 		"content": "#location #empire_of_the_isles",
 		"tags": ["location", "empire_of_the_isles", "note"]
@@ -137,7 +329,7 @@
 
 {
 		"title": "Karnaca",
-		"date":"Fri Jun 27 2025 02:51:00 GMT+0000 (Coordinated Universal Time)",
+		"date":"Mon Jun 30 2025 21:05:33 GMT+0000 (Coordinated Universal Time)",
 		"url":"/",
 		"content": "#location/city #empire_of_the_isles/serkonos/karnaca\nThe capital city of <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/serkonos/\">Serkonos</a>, the southernmost island of the <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/empire-of-the-isles/\">Empire of the Isles</a>.\n\nDistricts of Karnaca\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/districts/campo-seta-dockyards/\">Campo Seta Dockyards</a>\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/districts/dust-district/\">Dust District</a>\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/districts/old-quarter/\">Old Quarter</a>",
 		"tags": ["location/city", "empire_of_the_isles/serkonos/karnaca", "note","gardenEntry"]
@@ -145,9 +337,9 @@
 
 {
 		"title": "Serkonos",
-		"date":"Fri Jun 27 2025 02:51:00 GMT+0000 (Coordinated Universal Time)",
+		"date":"Mon Jun 30 2025 21:05:33 GMT+0000 (Coordinated Universal Time)",
 		"url":"/locations/serkonos/",
-		"content": "#location/nation #empire_of_the_isles/serkonos\nSerkonos is the southernmost of the four main islands of the <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/empire-of-the-isles/\">Empire of the Isles</a>. The capital city of Serkonos is <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/\">Karnaca</a>, on the southern coast. The isle is known for its warm, tropical climate and vast beaches. It is ruled by a Duke. The principal police force of Serkonos is the <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/grand-guard/\">Grand Guard</a>.\n\nIts primary cities are <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/\">Karnaca</a>, <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Cullero</a>, <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Saggunto</a>, and <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Bastillian</a>.",
+		"content": "#location/nation #empire_of_the_isles/serkonos\nSerkonos is the southernmost of the four main islands of the <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/empire-of-the-isles/\">Empire of the Isles</a>. The capital city of Serkonos is <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/\">Karnaca</a>, on the southern coast. The isle is known for its warm, tropical climate and vast beaches. It is ruled by a Duke. The principal police force of Serkonos is the <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/factions/institutions/grand-guard/\">Grand Guard</a>.\n\nIts primary cities are <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/\">Karnaca</a>, <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Cullero</a>, <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Saggunto</a>, and <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Bastillian</a>.",
 		"tags": ["location/nation", "empire_of_the_isles/serkonos", "note"]
 }
 ]
