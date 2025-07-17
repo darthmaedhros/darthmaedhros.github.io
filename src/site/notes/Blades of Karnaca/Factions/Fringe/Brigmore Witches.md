@@ -16,8 +16,8 @@ The Brigmore Witches are a cult of female practicioners of black magic.
 
 | Members                                                                |
 | ---------------------------------------------------------------------- |
-| [[Blades of Karnaca/Characters/Breanna Ashworth\|Breanna Ashworth]] |
 | [[Blades of Karnaca/Characters/Lynthia\|Lynthia]]                   |
 | [[Blades of Karnaca/Characters/Kamelin\|Kamelin]]                   |
+| [[Blades of Karnaca/Characters/Breanna Ashworth\|Breanna Ashworth]] |
 
 { .block-language-dataview}

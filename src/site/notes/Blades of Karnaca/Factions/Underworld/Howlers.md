@@ -8,7 +8,7 @@ Gang which sees themselves as idealists and revolutionaries trying to overthrow 
 Rival [[Blades of Karnaca/Factions/Institutions/Grand Guard\|Grand Guard]]. Currently at war with the [[Blades of Karnaca/Factions/Institutions/Abbey of the Everyman\|Abbey of the Everyman]].
 
 - **Leader:** [[Blades of Karnaca/Characters/Paolo\|Paolo]] (The Undying)
-- **Headquarters:** [[Crone's Hand Saloon\|Crone's Hand Saloon]] ([[Blades of Karnaca/Locations/Districts/Dust District\|Dust District]])
+- **Headquarters:** [[Blades of Karnaca/Locations/Buildings/Crone's Hand Saloon\|Crone's Hand Saloon]] ([[Blades of Karnaca/Locations/Districts/Dust District\|Dust District]])
 - **Territory:** [[Blades of Karnaca/Locations/Districts/Dust District\|Dust District]], influence in Santiago Fisheries
 - **Assets:** Street network, smuggling routes, popular support
 - **Allies:** [[Blades of Karnaca/Factions/Labor & Trade/United Miners of Karnaca\|United Miners of Karnaca]], [[Blades of Karnaca/Factions/Citizenry/Morlean Refugees\|Morlean Refugees]], [[Hagsmen\|Hagsmen]]
@@ -19,7 +19,7 @@ Rival [[Blades of Karnaca/Factions/Institutions/Grand Guard\|Grand Guard]]. Curr
 | Members                                                              |
 | -------------------------------------------------------------------- |
 | [[Blades of Karnaca/Characters/Paolo\|Paolo]]                     |
-| [[Blades of Karnaca/Characters/Bernard Vale\|Bernard Vale]]       |
 | [[Blades of Karnaca/Characters/Mindy Blanchard\|Mindy Blanchard]] |
+| [[Blades of Karnaca/Characters/Bernard Vale\|Bernard Vale]]       |
 
 { .block-language-dataview}

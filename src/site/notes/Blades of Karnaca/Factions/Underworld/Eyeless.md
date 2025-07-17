@@ -6,7 +6,7 @@
 Notorious criminal organization obsessed with the occult.
 
 - **Leader:** [[Blades of Karnaca/Characters/Dolores Michaels\|Dolores Michaels]], [[Blades of Karnaca/Characters/Ivan Jacobi\|Ivan Jacobi]], [[Blades of Karnaca/Characters/Shan Yun\|Shan Yun]] (Triumvirate)
-- **Headquarters:** [[Dolores Michaels Deposit & Loan\|Dolores Michaels Deposit & Loan]] ([[Blades of Karnaca/Locations/Districts/Upper Cyria\|Upper Cyria]])
+- **Headquarters:** [[Blades of Karnaca/Locations/Buildings/Dolores Michaels Deposit & Loan\|Dolores Michaels Deposit & Loan]] ([[Blades of Karnaca/Locations/Districts/Upper Cyria\|Upper Cyria]])
 - **Territory:** [[Blades of Karnaca/Locations/Districts/Upper Cyria\|Upper Cyria]], financial district operations
 - **Assets:** Banking network, blackmail material, occult artifacts
 - **Allies:** [[Blades of Karnaca/Factions/Fringe/Cult of the Outsider\|Cult of the Outsider]] (some members), corrupt officials
@@ -16,9 +16,9 @@ Notorious criminal organization obsessed with the occult.
 
 | Members                                                                |
 | ---------------------------------------------------------------------- |
-| [[Blades of Karnaca/Characters/Dolores Michaels\|Dolores Michaels]] |
-| [[Blades of Karnaca/Characters/Ivan Jacobi\|Ivan Jacobi]]           |
 | [[Blades of Karnaca/Characters/Shan Yun\|Shan Yun]]                 |
+| [[Blades of Karnaca/Characters/Ivan Jacobi\|Ivan Jacobi]]           |
+| [[Blades of Karnaca/Characters/Dolores Michaels\|Dolores Michaels]] |
 | [[Blades of Karnaca/Characters/Adelaide Phroaig\|Adelaide Phroaig]] |
 
 { .block-language-dataview}

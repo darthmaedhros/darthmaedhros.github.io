@@ -16,6 +16,7 @@ Extremist group that seeks to return to the authoritarian rule imposed by Hiram 
 
 | Members                                                                  |
 | ------------------------------------------------------------------------ |
+| [[Blades of Karnaca/Characters/Arlyn Clemont\|Arlyn Clemont]]         |
 | [[Blades of Karnaca/Characters/"Colonel" Harwick\|"Colonel" Harwick]] |
 
 { .block-language-dataview}
